@@ -1,4 +1,4 @@
-# Hello! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="30px"> I'm        
+# Hello! | <img src="https://github.com/himanshubalani.png" width=50px> | Himanshu Balani | https://github.com/himanshubalani I'm        
 
 ![Himanshu (1)](https://user-images.githubusercontent.com/85930567/130409887-7c0452c9-89ff-4a22-adb3-e3a47e9fbd1d.png)
 
